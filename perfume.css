@@ -68,7 +68,7 @@ body{
 .Home{
     
     height:100vh;
-    background-image: url('./Images/slider2.jpg') ;
+    background-image: url('slider2.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
